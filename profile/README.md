@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/272417094?s=48&v=4" alt="PayGraph" width="280" />
+  <img src="https://www.paygraph.dev/logo.svg" alt="PayGraph" width="200" />
 </p>
 
 <p align="center">
